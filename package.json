@@ -1,0 +1,25 @@
+{
+  "name": "node-js-managing-callbacks-g-416",
+  "version": "1.0.0",
+  "description": "Using the Async Library to Manage \"Callback Hell\" =================================================",
+  "main": "async-example.js",
+  "dependencies": {
+    "async": "^2.0.0",
+    "prompt": "^1.0.0",
+    "request": "^2.73.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JVThomas/node-js-managing-callbacks-g-416.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JVThomas/node-js-managing-callbacks-g-416/issues"
+  },
+  "homepage": "https://github.com/JVThomas/node-js-managing-callbacks-g-416#readme"
+}
